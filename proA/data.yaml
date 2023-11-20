@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/proA/data/mahjong-2/train
+valid: /content/drive/MyDrive/proA/data/mahjong-2/valid
+
+nc: 2
+
+names: [,]
